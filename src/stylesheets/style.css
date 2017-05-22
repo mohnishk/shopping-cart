@@ -1,0 +1,47 @@
+body{
+    background: #32c996!important;
+}
+img{
+    width: 100%;
+}
+.zero-gutter{
+    padding: 0!important;
+}
+.image-item{
+    border:2px solid #dedede;
+}
+h5,h4, h6{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.incr-decr{
+    margin-top: 25px;
+}
+.incr-decr .btn{
+    margin: 0 5px;
+}
+.product-list{
+    background: #fff;
+}
+.image-item img{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    display: block;
+}
+.image-item .btn{
+    margin-bottom: 10px;
+}
+.list-group img{
+    width:80px;
+    float: left;
+    margin-right: 10px;
+}
+.list-group .price{
+    float: left;
+    clear: left;
+    margin-top: 10px;
+}
+.mar15{
+    margin-top:15px;
+}
